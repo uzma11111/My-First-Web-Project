@@ -12,8 +12,15 @@ License
 Contact
 Am Software Engineer i work with so many organaization create different projects. 
 
-Features
-[List the key features and functionalities of your website.]
+# Features
+Introduction
+About Us
+My Work
+Projects
+Languages Used
+Organization Reviews
+License
+Contact
 [You can use bullet points or numbered lists for clarity.]
 Installation
 [Explain how to set up and run your website locally if applicable. Include any prerequisites or dependencies.]
