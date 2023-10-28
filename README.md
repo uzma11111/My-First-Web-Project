@@ -11,7 +11,6 @@ Am Software Engineer i work with so many organaization create different projects
 6. Organization Reviews
 7. License
 8. Contact
-9. 
 # Languages I Used
 1. HTML
 2. CSS
@@ -19,8 +18,10 @@ Am Software Engineer i work with so many organaization create different projects
 4. JAVA SCRIPT
 5. PHP
    
-
+# Contact Me
+Phone: 1234567
 Email: norykhan30@gmail.com
+Address: XYZ
 GitHub: Uzma11111
 
 
