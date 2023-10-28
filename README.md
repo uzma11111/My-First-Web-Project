@@ -1,5 +1,5 @@
-[Your Project Name]
-[Provide a catchy or descriptive name for your portfolio website.]
+[#Uzma Zahir Porfolio]
+[Uzma's Porfolio]
 
 Table of Contents
 Introduction
