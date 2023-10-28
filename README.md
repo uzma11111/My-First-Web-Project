@@ -1,17 +1,16 @@
-# Uzma Zahir Porfolio
+# Welcome To Uzma Zahir Porfolio
 # Uzma's Porfolio
 
 Table of Contents
 Introduction
-Features
-Installation
-Usage
-Technologies Used
-Contributing
+About Us
+My Work
+Projects
+Languages Used
+Organization Reviews
 License
 Contact
-Introduction
-[Give a brief introduction to your portfolio website. Mention its purpose and any unique features or aspects that set it apart.]
+Am Software Engineer i work with so many organaization create different projects. 
 
 Features
 [List the key features and functionalities of your website.]
