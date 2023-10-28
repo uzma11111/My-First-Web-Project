@@ -1,26 +1,16 @@
 # Welcome To Uzma Zahir Porfolio
 # Uzma's Porfolio
-
-Table of Contents
-Introduction
-About Us
-My Work
-Projects
-Languages Used
-Organization Reviews
-License
-Contact
 Am Software Engineer i work with so many organaization create different projects. 
 
 # Features
-Introduction
-About Us
-My Work
-Projects
-Languages Used
-Organization Reviews
-License
-Contact
+1. Introduction
+2. About Us
+3. My Work
+4. Projects
+5. Languages Used
+6. Organization Reviews
+7. License
+8. Contact
 [You can use bullet points or numbered lists for clarity.]
 Installation
 [Explain how to set up and run your website locally if applicable. Include any prerequisites or dependencies.]
