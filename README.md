@@ -19,10 +19,7 @@ Am Software Engineer i work with so many organaization create different projects
 5. PHP
    
 # Contact Me
-Phone: 1234567
-Email: norykhan30@gmail.com
-Address: XYZ
-GitHub: Uzma11111
+1. Email: norykhan30@gmail.com
+2. GitHub: Uzma11111
 
-
-If you have any specific questions or need further assistance, please let me know.
+If you have any specific questions or need further assistance, please let me know. Contact me on my Email if you want to work with me. 
