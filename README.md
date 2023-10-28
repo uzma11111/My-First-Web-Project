@@ -1,5 +1,5 @@
-[#Uzma Zahir Porfolio]
-[#Uzma's Porfolio]
+# Uzma Zahir Porfolio
+# Uzma's Porfolio
 
 Table of Contents
 Introduction
